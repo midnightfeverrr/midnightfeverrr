@@ -1,7 +1,7 @@
 ### Welcome to Marciano's Github profile!
 
 #### About me 👉
-You can call me Marco, I am from Indonesia, but currently stays in Singapore.
+You can call me Marco. I am from Indonesia, but I'm currently staying in Singapore.
 
 #### What I do ⚙️
 I'm an undergraduate student at the [National University of Singapore](https://www.nus.edu.sg/), majoring in Computer Science.\
